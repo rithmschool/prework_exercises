@@ -42,6 +42,6 @@ for (let key in programming){
 
 // 7
 
-for (let key in programming){
-    console.log(programming[key]);
+for (let value in programming){
+    console.log(programming[value]);
 }
